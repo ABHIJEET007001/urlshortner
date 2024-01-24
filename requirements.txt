@@ -1,3 +1,5 @@
+pip freeze > requirements.txt
+
 absl-py==1.4.0
 asgiref==3.7.2
 astunparse==1.6.3
